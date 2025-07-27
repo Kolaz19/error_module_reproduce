@@ -1,0 +1,6 @@
+.clang-format
+main
+main.exe
+object_files/
+compile_commands.json
+*.log
